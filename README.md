@@ -11,4 +11,4 @@ Created artifacts are:
  
  The generated pdf file (target.pdf) is placed on top level.
  
- All the source code is placed in main class App.
+ All the source code is placed in main class com.pdfexample.App.
