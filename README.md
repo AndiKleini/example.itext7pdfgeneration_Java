@@ -9,4 +9,6 @@ Created artifacts are:
   3. Table
   2. Image
  
+ The generated pdf file (target.pdf) is placed on top level.
+ 
  All the source code is placed in main class App.
