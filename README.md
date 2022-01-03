@@ -1,4 +1,4 @@
-# example.itext7pdfgereration
+# example.itext7pdfgeneration
 
 The example creates a pdf file under usage of iText7 library.
 
